@@ -10,8 +10,8 @@ This repo consists of multiple **submodules**, each covering a specific topic in
 
 | Submodule | Description |
 |-----------|------------|
-| [js-basics](./js-basics) | Fundamentals: variables, data types, loops, conditionals |
-| [js-arrays](./js-arrays) | Array methods, transformations, and challenges |
+| [01-js-console-basics](./01-js-console-basics/) | Logging, debugging, and basic console operations |
+| [02-js-variables-and-data-types](./js-arrays) | Variables, constants, and scope in JavaScript |
 | ... | more to come, stay tune! |
 
 ---

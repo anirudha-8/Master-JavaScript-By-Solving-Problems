@@ -1,3 +1,6 @@
 [submodule "01-js-console-basics"]
 	path = 01-js-console-basics
 	url = https://github.com/anirudha-8/js-console-basics.git
+[submodule "02-js-variables-and-data-types"]
+	path = 02-js-variables-and-data-types
+	url = https://github.com/anirudha-8/js-variables-and-data-types.git

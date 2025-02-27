@@ -10,8 +10,8 @@ This repo consists of multiple **submodules**, each covering a specific topic in
 
 | Submodule | Description |
 |-----------|------------|
-| [01-js-console-basics](./01-js-console-basics/) | Logging, debugging, and basic console operations |
-| [02-js-variables-and-data-types](./02-js-variables-and-data-types/) | Variables, constants, data types, and type checking |
+| [01-js-console-basics](https://github.com/anirudha-8/js-console-basics.git) | Logging, debugging, and basic console operations |
+| [02-js-variables-and-data-types](https://github.com/anirudha-8/js-variables-and-data-types.git) | Variables, constants, data types, and type checking |
 | ... | more to come, stay tune! |
 
 ---

@@ -12,6 +12,7 @@ This repo consists of multiple **submodules**, each covering a specific topic in
 |-----------|------------|
 | [01-js-console-basics](https://github.com/anirudha-8/js-console-basics.git) | Logging, debugging, and basic console operations |
 | [02-js-variables-and-data-types](https://github.com/anirudha-8/js-variables-and-data-types.git) | Variables, constants, data types, and type checking |
+| [03-js-loops](https://github.com/anirudha-8/js-loops.git) | Looping constructs and iteration methods |
 | ... | more to come, stay tune! |
 
 ---

@@ -4,3 +4,6 @@
 [submodule "02-js-variables-and-data-types"]
 	path = 02-js-variables-and-data-types
 	url = https://github.com/anirudha-8/js-variables-and-data-types.git
+[submodule "03-js-loops"]
+	path = 03-js-loops
+	url = https://github.com/anirudha-8/js-loops.git

@@ -7,3 +7,6 @@
 [submodule "03-js-loops"]
 	path = 03-js-loops
 	url = https://github.com/anirudha-8/js-loops.git
+[submodule "04-js-arrays"]
+	path = 04-js-arrays
+	url = https://github.com/anirudha-8/js-arrays.git

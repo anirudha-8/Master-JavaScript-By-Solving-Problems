@@ -10,3 +10,6 @@
 [submodule "04-js-arrays"]
 	path = 04-js-arrays
 	url = https://github.com/anirudha-8/js-arrays.git
+[submodule "05-js-functions"]
+	path = 05-js-functions
+	url = https://github.com/anirudha-8/js-functions.git
